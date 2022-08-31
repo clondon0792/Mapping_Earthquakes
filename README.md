@@ -16,25 +16,23 @@ Throughout this project, we learned how to create map layers, visual customizati
 
 **Map Style = Dark with circle marker and popup info box**
 
-![darkpop](https://github.com/amylio/MappingEarthquakes/blob/main/Earthquake_Challenge/Images/DarkPOP.png)
+![darkpop](https://github.com/clondon0792/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/DarkPOP.png)
 
 **Map Style = Navigation Preview Light with dashed line mapping (5) location points**
 
-![dashed](https://github.com/amylio/MappingEarthquakes/blob/main/Earthquake_Challenge/Images/DashedLines.png)
+![dashed](https://github.com/clondon0792/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/DashedLines.png)
 
 # Challenge Submission 
-(files can be found [here](https://github.com/amylio/MappingEarthquakes/tree/main/Earthquake_Challenge))
+(files can be found [here](https://github.com/clondon0792/Mapping_Earthquakes/blob/main/Earthquake_Challenge/))
 
 **Deliverable 1: Add Tectonic Plate Data**
 
-![tect](https://github.com/amylio/MappingEarthquakes/blob/main/Earthquake_Challenge/Images/DEL1-Tectonic.png)
+![tect](https://github.com/clondon0792/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/DEL1-Tectonic.png)
 
 **Deliverable 2: Add Major Earthquake Data**
 
-![MajorEQ](https://github.com/amylio/MappingEarthquakes/blob/main/Earthquake_Challenge/Images/DEL2-MajorEQ.png)
+![MajorEQ](https://github.com/clondon0792/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/DEL2-MajorEQ.png)
 
 **Deliverable 3: Add an Additional Map**
 
-![AddMap](https://github.com/amylio/MappingEarthquakes/blob/main/Earthquake_Challenge/Images/DEL3-AddMap.png)
-
-***Interactive map can be access through this [link](https://amylio.github.io/Interactive-Earthquake-Map/).***
+![AddMap](https://github.com/clondon0792/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Images/Del3AddingMapType.png)
